@@ -4,4 +4,9 @@ hay mas data emanuel tarugo dios
   
 PERO QUE TARADO ERES EMANUEL TONTO TARUGO ON JUEGUE NO JOSE
 
+dividir(a,b) {
+   if(b===0){return null}
+   return a / b;
+}
+
 DIOS LE VA A DAR LA PLATA QUE NECESITA PARA QUE SE COMPRE SU AREPITA COON AUYACA
